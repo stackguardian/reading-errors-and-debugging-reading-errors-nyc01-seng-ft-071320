@@ -1,1 +1,2 @@
-def "hello world"
+greeting = "Hello World"
+greeting
